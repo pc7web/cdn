@@ -1,2 +1,2 @@
-# cdn - contains many useful static files for use.
-### svg
+# cdn - contains many useful static files to use in oss.
+### contains [svg, ...]
